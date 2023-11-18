@@ -1,2 +1,21 @@
 Инструкция по Markdown 
-Создала Гольцева Екатерина 
+Создала Гольцева Екатерина
+
+Списки
+* one
+* two
+* three
+* four
+  * four 1
+  * four 2
+    * four 2 1
+    * four 2 2
+
+1. one
+1. two
+1. three
+1. four
+   1. four 1
+   1. four 2
+      1. four 2 1
+      1. four 2 2
