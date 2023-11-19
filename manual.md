@@ -36,3 +36,31 @@ _курсив_
 Добавление картинки 
 ![скрин](3.jpg)
 ![скрин](2.jpg)
+
+## Установка Git
+
+* Windows. Проходим по [этой ссылке](https://git-scm.com/download/win "Download for Windows"), выбираем под вашу ОС (32 или 64 битную), скачиваем и устанавливаем.
+
+* Для Mac OS. Открываем терминал и пишем:
+
+Если установлен Homebrew
+
+>brew install git
+
+Если нет, то вводим эту команду. 
+
+> git --version
+
+После этого появится окно, где предложит установить Command Line Tools (CLT).
+
+Соглашаемся и ждем установки. Вместе с CLT установиться и git
+
+* Linux. Открываем терминал и вводим следующую команду.
+
+ Debian или Ubuntu
+
+> sudo apt install git
+
+ CentOS
+
+> sudo yum install git
